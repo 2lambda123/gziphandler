@@ -5,5 +5,5 @@ go 1.11
 <<<<<<< HEAD
 require github.com/stretchr/testify v1.8.4
 =======
-require github.com/stretchr/testify v1.7.0
+require github.com/stretchr/testify v1.8.4
 >>>>>>> origin/master
